@@ -1,0 +1,1 @@
+creates sathya1.txt files
